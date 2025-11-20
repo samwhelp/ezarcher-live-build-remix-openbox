@@ -1,0 +1,19 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Openbox
+##
+
+openbox
+
+
+tint2
+picom
+rofi
