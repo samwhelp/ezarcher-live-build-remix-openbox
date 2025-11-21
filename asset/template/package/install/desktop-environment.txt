@@ -8,6 +8,13 @@
 
 
 ##
+## * https://wiki.archlinux.org/title/Openbox
+##
+
+
+
+
+##
 ## ## Package / Desktop Environment / Openbox
 ##
 
